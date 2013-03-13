@@ -1,5 +1,5 @@
 # SMS Manager
-SMS manager is a simple way to send SMS messages from internet sevices with an opened API.
+SMS manager is a simple way to send SMS messages from internet sevices with an open API.
 Supported services in this built: [smsPilot.ru] (http://smsPilot.ru), [sms24x7.ru] (http://sms24x7.ru), [smsc.ru] (http://smsc.ru)
 Designed for node.js
 
